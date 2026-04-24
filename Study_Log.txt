@@ -1,0 +1,4 @@
+
+22-Apr-2026, "GIT Introduction", start/end: 17:38-18:41 (1 hours and 3 minutes)
+23-Apr-2026, "GIT", start/end: 17:38-18:18 (0 hours and 40 minutes)
+24-Apr-2026, "More GIT, perhaps the start of API's", start/end: 18:04-
