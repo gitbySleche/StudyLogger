@@ -1,5 +1,6 @@
 
 22-Apr-2026, "GIT Introduction", start/end: 17:38-18:41 (1 hours and 3 minutes)
 23-Apr-2026, "GIT", start/end: 17:38-18:18 (0 hours and 40 minutes)
-24-Apr-2026, "More GIT, perhaps the start of API's", start/end: 18:04-19:30 (1 hours and 26 minutes), Comments: "Added a comment feature to this shitty script. Played around some more with GIT, learned some new commands".
-27-Apr-2026, "I've been procrastinating, so more GIT ", start/end: 18:05-19:50 (1 hours and 45 minutes), Comments: "Learned a lot today, managed to upload this to GIT. This past weekend however, I procrastinated, didn't get anything done.".
+24-Apr-2026, "More GIT, perhaps the start of API's", start/end: 18:04-19:30 (1 hours and 26 minutes), Comments: "Added a comment feature to this shitty script. Played around some more with GIT, learned some new commands."
+27-Apr-2026, "I've been procrastinating, so more GIT ", start/end: 18:05-19:50 (1 hours and 45 minutes), Comments: "Learned a lot today, managed to upload this to GITHub. This past weekend however, didn't get anything done."
+30-Apr-2026, "TaskTracker-CLI", start/end: 17:43-18:46 (1 hours and 3 minutes), Comments: "Started working on it. Also, using GIT bash is getting easier."
