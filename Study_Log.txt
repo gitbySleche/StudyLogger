@@ -3,4 +3,7 @@
 23-Apr-2026, "GIT", start/end: 17:38-18:18 (0 hours and 40 minutes)
 24-Apr-2026, "More GIT, perhaps the start of API's", start/end: 18:04-19:30 (1 hours and 26 minutes), Comments: "Added a comment feature to this shitty script. Played around some more with GIT, learned some new commands."
 27-Apr-2026, "I've been procrastinating, so more GIT ", start/end: 18:05-19:50 (1 hours and 45 minutes), Comments: "Learned a lot today, managed to upload this to GITHub. This past weekend however, didn't get anything done."
-30-Apr-2026, "TaskTracker-CLI", start/end: 17:43-18:46 (1 hours and 3 minutes), Comments: "Started working on it. Also, using GIT bash is getting easier."
+30-Apr-2026, "TaskTracker", start/end: 17:43-18:46 (1 hours and 3 minutes), Comments: "Started working on a new project. Using GIT bash is getting easier."
+04-May-2026, "TaskTracker", start/end: 15:20-16:57 (1 hours and 37 minutes), Comments: "Fake progress, messed around relearning concepts."
+09-May-2026, "TaskTracker, start/end: 07:45-10:03 (2 hours and 18 minutes), Comments: "Added the 'add'/'update' commands to the Tasktracker. 15 minute break."
+09-May-2026, "TaskTracker", start/end: 10:34-12:33 (1 hours and 59 minutes), Comments: "Added the primary commands/ Error proofing. Learned more about the json format. Actually did solid progress."

@@ -39,7 +39,7 @@ with open("Study_Log.txt", "a+") as log:
                 if input("Would you like to comment on your last session?(y/n) ").lower() == "y":
                     
                     comment = input("Go ahead: ")
-                    log.write(f', Comments: "{comment}".')
+                    log.write(f', Comments: "{comment}"')
                     
                 print("Last Session Ended. Log updated.")
 
