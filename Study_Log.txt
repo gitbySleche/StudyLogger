@@ -3,7 +3,27 @@
 23-Apr-2026, "GIT", start/end: 17:38-18:18 (0 hours and 40 minutes)
 24-Apr-2026, "More GIT, perhaps the start of API's", start/end: 18:04-19:30 (1 hours and 26 minutes), Comments: "Added a comment feature to this shitty script. Played around some more with GIT, learned some new commands."
 27-Apr-2026, "I've been procrastinating, so more GIT ", start/end: 18:05-19:50 (1 hours and 45 minutes), Comments: "Learned a lot today, managed to upload this to GITHub. This past weekend however, didn't get anything done."
-30-Apr-2026, "TaskTracker", start/end: 17:43-18:46 (1 hours and 3 minutes), Comments: "Started working on a new project. Using GIT bash is getting easier."
+30-Apr-2026, "TaskTracker - New Project", start/end: 17:43-18:46 (1 hours and 3 minutes), Comments: "Started working on a new project. Using GIT bash is getting easier."
 04-May-2026, "TaskTracker", start/end: 15:20-16:57 (1 hours and 37 minutes), Comments: "Fake progress, messed around relearning concepts."
 09-May-2026, "TaskTracker, start/end: 07:45-10:03 (2 hours and 18 minutes), Comments: "Added the 'add'/'update' commands to the Tasktracker. 15 minute break."
 09-May-2026, "TaskTracker", start/end: 10:34-12:33 (1 hours and 59 minutes), Comments: "Added the primary commands/ Error proofing. Learned more about the json format. Actually did solid progress."
+10-May-2026, "TaskTracker", start/end: 07:12-09:58 (2 hours and 46 minutes), Comments: "15min break."
+10-May-2026, "TaskTracker", start/end: 10:13-13:07 (2 hours and 54 minutes), Comments: "Finished TaskTracker and pushed it on GIThub."
+11-May-2026, "API's", start/end: 07:51-09:32 (1 hours and 41 minutes), Comments: "Actually started at 7:32. 15min break."
+11-May-2026, "GUAC - New Project", start/end: 10:18-11:59 (1 hours and 41 minutes), Comments: "Finished, GUAC - GitHub Activity CLI. Learned about HTTP requests, API's responses, status codes. "
+13-May-2026, "Flask Introduction", start/end: 07:58-11:02 (3 hours and 4 minutes), Comments: "Decorators, .route() method, conceptualizing webframeworks and how Flask works, learned about the __name__ convention. Did about 45 min break. I'm mentally taxed out today."
+16-May-2026, "HTML Intro", start/end: 11:30-13:30 (2 hours and 0 minutes), Comments: "Learnt the basics of HTML: tags, forms, inputs, selects, labels, buttons, links"
+17-May-2026, "Unit Converter", start/end: 09:57-11:01 (1 hours and 04 minutes), Comments: "Finished the HTML forms."
+17-May-2026, "Unit Converter", start/end: 11:20-13:09 (1 hours and 49 minutes), Comments: "Troubleshooting templates and requests."
+19-May-2026, "Unit Converter", start/end: 11:13-14:14 (3 hours and 1 minutes), Comments: "Implemented the backend logic on the Length page and it's working properly. I'm almost done. "
+20-May-2026, "Unit Converter", start/end: 07:00-07:43 (0 hours and 43 minutes), Comments: "Finished the project, uploaded to github."
+26-May-2026, "Number Guessing Game", start/end: 10:31-13:30 (2 hours and 59 minutes), Comments: "Finished the project."
+29-May-2026, "Personal Blog project", start/end: 10:35-12:08 (2 hours and 33 minutes), Comments: "Started it..."
+30-May-2026, "Personal Blog project", start/end: 10:46-12:12 (1 hours and 26 minutes)
+30-May-2026, "Personal Blog project", start/end: 17:22-17:48 (0 hours and 26 minutes)
+31-May-2026, "Personal Blog project", start/end: 11:28-12:45 (1 hours and 17 minutes)
+31-May-2026, "Personal Blog project", start/end: 13:15-14:52 (1 hours and 37 minutes), Comments: "Admin dashboard is correctly displaying articles. Create new article button/page is working properly."
+05-Jun-2026, "Personal Blog project", start/end: 17:35-17:58 (0 hours and 23 minutes), Comments: "Did fuck all."
+08-Jun-2026, "Personal Blog project", start/end: 09:42-13:30 (3 hours and 48 minutes), Comments: "Added the edit article function plus deletion. Deletion has a two step verication."
+14-Jun-2026, "Personal Blog Project ", start/end: 07:51-11:07 (3 hours and 16 minutes), Comments: "Set up the home page and the article page."
+15-Jun-2026, "Personal Blog Project", start/end: 07:28-10:31 (3 hours and 3 minutes), Comments: "It's finally done."
